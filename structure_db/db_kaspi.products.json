@@ -1,0 +1,2452 @@
+[{
+  "name": {
+    "short": "Apple iPhone 11 128Gb Slim Box красный",
+    "full": "Смартфон Apple iPhone 11 128Gb Slim Box красный"
+  },
+  "price": "312966",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "6580a5896d718b80f0ccbc80_1.jpg",
+    "6580a5896d718b80f0ccbc80_2.jpg",
+    "6580a5896d718b80f0ccbc80_3.jpg",
+    "6580a5896d718b80f0ccbc80_4.jpg",
+    "6580a5896d718b80f0ccbc80_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+
+  "name": {
+    "short": "Apple iPhone 13 128Gb Midnight черный",
+    "full": "Смартфон Apple iPhone 13 128Gb Midnight черный"
+  },
+  "price": "325330",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "65816da456646a2476ad8b5e_1.jpg",
+    "65816da456646a2476ad8b5e_2.jpg",
+    "65816da456646a2476ad8b5e_3.jpg",
+    "65816da456646a2476ad8b5e_4.jpg",
+    "65816da456646a2476ad8b5e_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": {
+    "short": "Apple iPhone 12 128Gb Slim Box красный",
+    "full": "Смартфон Apple iPhone 12 128Gb Slim Box красный"
+  },
+  "price": "366334",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "65816dbd56646a2476ad8b60_1.jpg",
+    "65816dbd56646a2476ad8b60_2.jpg",
+    "65816dbd56646a2476ad8b60_3.jpg",
+    "65816dbd56646a2476ad8b60_4.jpg",
+    "65816dbd56646a2476ad8b60_5.jpg",
+    "65816dbd56646a2476ad8b60_6.jpg",
+    "65816dbd56646a2476ad8b60_7.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": {
+    "short": "Xiaomi Redmi 12C 4 ГБ/128 ГБ серый",
+    "full": "Смартфон Xiaomi Redmi 12C 4 ГБ/128 ГБ серый"
+  },
+  "price": "57861",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "65816dc656646a2476ad8b62_1.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": {
+    "short": "Apple iPhone 13 128Gb белый",
+    "full": "Смартфон Apple iPhone 13 128Gb белый"
+  },
+  "price": "327590",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "65816dca56646a2476ad8b64_1.jpg",
+    "65816dca56646a2476ad8b64_2.jpg",
+    "65816dca56646a2476ad8b64_3.jpg",
+    "65816dca56646a2476ad8b64_4.jpg",
+    "65816dca56646a2476ad8b64_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+
+  "name": {
+    "short": "Apple iPhone 12 128Gb Slim Box красный",
+    "full": "Смартфон Apple iPhone 12 128Gb Slim Box красный"
+  },
+  "price": "332966",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "6580a5896d718b80f0ccbc80_1.jpg",
+    "6580a5896d718b80f0ccbc80_2.jpg",
+    "6580a5896d718b80f0ccbc80_3.jpg",
+    "6580a5896d718b80f0ccbc80_4.jpg",
+    "6580a5896d718b80f0ccbc80_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": {
+    "short": "Apple iPhone 12 128Gb Slim Box красный",
+    "full": "Смартфон Apple iPhone 12 128Gb Slim Box красный"
+  },
+  "price": "332966",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "6580a5896d718b80f0ccbc80_1.jpg",
+    "6580a5896d718b80f0ccbc80_2.jpg",
+    "6580a5896d718b80f0ccbc80_3.jpg",
+    "6580a5896d718b80f0ccbc80_4.jpg",
+    "6580a5896d718b80f0ccbc80_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": {
+    "short": "Apple iPhone 12 128Gb Slim Box красный",
+    "full": "Смартфон Apple iPhone 12 128Gb Slim Box красный"
+  },
+  "price": "332966",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "6580a5896d718b80f0ccbc80_1.jpg",
+    "6580a5896d718b80f0ccbc80_2.jpg",
+    "6580a5896d718b80f0ccbc80_3.jpg",
+    "6580a5896d718b80f0ccbc80_4.jpg",
+    "6580a5896d718b80f0ccbc80_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+
+  "name": {
+    "short": "Apple iPhone 12 128Gb Slim Box красный",
+    "full": "Смартфон Apple iPhone 12 128Gb Slim Box красный"
+  },
+  "price": "332966",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "6580a5896d718b80f0ccbc80_1.jpg",
+    "6580a5896d718b80f0ccbc80_2.jpg",
+    "6580a5896d718b80f0ccbc80_3.jpg",
+    "6580a5896d718b80f0ccbc80_4.jpg",
+    "6580a5896d718b80f0ccbc80_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+},
+{
+
+  "name": {
+    "short": "Apple iPhone 12 128Gb Slim Box красный",
+    "full": "Смартфон Apple iPhone 12 128Gb Slim Box красный"
+  },
+  "price": "332966",
+  "category_id": "655b223d8576c038f93b3b88",
+  "brand_id": null,
+  "description": {
+    "short": "",
+    "full": ""
+  },
+  "photo": [
+    "6580a5896d718b80f0ccbc80_1.jpg",
+    "6580a5896d718b80f0ccbc80_2.jpg",
+    "6580a5896d718b80f0ccbc80_3.jpg",
+    "6580a5896d718b80f0ccbc80_4.jpg",
+    "6580a5896d718b80f0ccbc80_5.jpg"
+  ],
+  "color": "",
+  "characteristics": [
+    {
+      "657f65124e9ade7474abe161": [
+        {
+          "key": "тип",
+          "value": "моноблок",
+          "is_short": true
+        },
+        {
+          "key": "Стандарт",
+          "value": "GSM 850/900/1800/1900, 3G, 4G LTE",
+          "is_short": false
+        },
+        {
+          "key": "Операционная система",
+          "value": "iOS 13",
+          "is_short": false
+        },
+        {
+          "key": "SIM-карта",
+          "value": "1 nano SIM-карта + eSIM",
+          "is_short": false
+        },
+        {
+          "key": "Материал",
+          "value": "металл и стекло",
+          "is_short": false
+        },
+        {
+          "key": "Поддержка 5G",
+          "value": "Нет",
+          "is_short": false
+        },
+        {
+          "key": "Технология NFC",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Цвет",
+          "value": "красный",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe162": [
+        {
+          "key": "Частота обновления экрана",
+          "value": "60 Гц",
+          "is_short": true
+        },
+        {
+          "key": "Тип экрана",
+          "value": "сенсорный мультитач цветной IPS, Liquid Retina HD",
+          "is_short": false
+        },
+        {
+          "key": "Диагональ",
+          "value": "6.1 дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Разрешение дисплея",
+          "value": "1792x828, 326 пикс. на дюйм",
+          "is_short": false
+        },
+        {
+          "key": "Автоматический поворот экрана",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Устойчивое к царапинам стекло",
+          "value": "Да",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe163": [
+        {
+          "key": "Размер оперативной памяти",
+          "value": "4 ГБ",
+          "is_short": true
+        },
+        {
+          "key": "Процессор",
+          "value": "6-ядерный Apple A13 Bionic",
+          "is_short": false
+        },
+        {
+          "key": "Частота процессора",
+          "value": "2650.0 МГц",
+          "is_short": false
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128.0 ГБ",
+          "is_short": false
+        },
+        {
+          "key": "Слот карт памяти",
+          "value": "Нет",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe164": [
+        {
+          "key": "Количество мегапикселей основной фотокамеры",
+          "value": "24.0 Мпикс",
+          "is_short": true
+        },
+        {
+          "key": "Фотокамера",
+          "value": "12 + 12 Мп, светодиодная вспышка",
+          "is_short": false
+        },
+        {
+          "key": "Видеосъемка",
+          "value": "4K при 24, 30 или 60 кадрах/с, 1080p при 30 или 60 кадрах/с, 720p при 30 кадрах/с, замедленное видео для 1080p при 120 или 240 кадрах/с",
+          "is_short": false
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Мп",
+          "is_short": false
+        },
+        {
+          "key": "Форматы аудио",
+          "value": "AAC, полифония, MP3, FLAC",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe165": [
+        {
+          "key": "Датчики",
+          "value": "компас, барометр, акселерометр, гироскоп, датчик приближения, датчик освещенности",
+          "is_short": true
+        },
+        {
+          "key": "Режим полета",
+          "value": "Да",
+          "is_short": false
+        },
+        {
+          "key": "Органайзер",
+          "value": "будильник, календарь, калькулятор",
+          "is_short": false
+        },
+        {
+          "key": "Управление",
+          "value": "голосовое управление, голосовой набор",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe166": [
+        {
+          "key": "Поддержка беспроводной зарядки",
+          "value": "да",
+          "is_short": false
+        },
+        {
+          "key": "Тип аккумулятора",
+          "value": "Li-ion",
+          "is_short": false
+        },
+        {
+          "key": "Емкость аккумулятора",
+          "value": "3110.0 мАч",
+          "is_short": false
+        },
+        {
+          "key": "Время работы в режиме прослушивания музыки",
+          "value": "65.0 ч",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe167": [
+        {
+          "key": "Габариты",
+          "value": "75.7x150.9x8.3 мм",
+          "is_short": false
+        },
+        {
+          "key": "Вес",
+          "value": "194.0 г",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "657f65124e9ade7474abe168": [
+        {
+          "key": "Интерфейс",
+          "value": "Lightning",
+          "is_short": false
+        },
+        {
+          "key": "Конструкция",
+          "value": "водозащита, двойная камера, пылезащита",
+          "is_short": false
+        },
+        {
+          "key": "Особенности",
+          "value": "Face ID, защита IP68, корпус из устойчивого к царапинам стекла",
+          "is_short": false
+        },
+        {
+          "key": "Комплектация",
+          "value": "кабель Lightning/USB-С",
+          "is_short": false
+        }
+      ]
+    }
+  ]
+}]
